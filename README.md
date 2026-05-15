@@ -15,9 +15,19 @@ Two goals usually pull against each other: convenient cross-platform development
 
 <br>
 
-**Install** — paste this to your AI agent:
+**Install** — pick one:
 
 </div>
+
+**A. With [`skills`](https://github.com/vercel-labs/skills) (any compatible agent):**
+
+```bash
+npx skills add yetone/native-feel-skill -g
+```
+
+The `-g` flag installs globally (user-level) so every project picks it up.
+
+**B. Or paste this prompt to your AI agent:**
 
 ```
 Install the native-feel skill for me:
