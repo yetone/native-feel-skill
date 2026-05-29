@@ -121,7 +121,7 @@ Agent  ❯ Before architecture, the decision tree
 
          Want to start with the seam — where to draw the cross-
          platform line — or with the IPC contract, since that's the
-         load-bearing piece?
+         required piece?
 ```
 
 ### Other things the skill is good for
