@@ -120,8 +120,8 @@ Agent  ❯ Before architecture, the decision tree
               secondary windows aggressively).
 
          Want to start with the seam — where to draw the cross-
-         platform line — or with the IPC contract, since that's the
-         required piece?
+         platform line — or with the IPC contract, since getting
+         that schema wrong means rebuilding every bridge later?
 ```
 
 ### Other things the skill is good for
